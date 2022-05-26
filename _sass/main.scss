@@ -98,7 +98,7 @@ $font-stack-body: sofia-pro, sans-serif;
 $font-stack-bighead: rig-solid-bold-halftone, sans-serif;
 $font-stack-headings: sofia-pro-soft, sans-serif;
 $primary-color: #1DFFA8;
-$secondary-color: #EF2F88;
+$secondary-color: #39A0ED;
 $dark-color: #1a1a1a;
 $light-color: white;
 * {
@@ -162,7 +162,7 @@ li {
     font-size: 1.2rem;
 }
 li a, .interior a {
-  border-bottom: 3px solid $dark-color;
+  border-bottom: 3px solid $primary-color;
 }
 li a:hover {
   border-bottom: 3px solid $primary-color;
@@ -173,11 +173,14 @@ li a.active {
 }
 li a.active:hover, .interior li a:hover, .interior a:hover {
   color: $dark-color;
-  border-bottom: 3px solid $primary-color;
+  border-bottom: 3px solid $light-color;
 }
 .interior h1 a, .interior h1 a:hover {
   border-bottom: none;
   color: $primary-color;
+}
+a.main-link, a.main-link:hover, .interior li a.main-link, .interior li a.main-link:hover {
+  border-bottom: none;
 }
 header {
   width: 100%;
@@ -193,6 +196,7 @@ nav ul {
 }
 nav li {
   float: left;
+  padding: 0;
   margin: 10px 20px 10px 0;
 }
 nav li.mobile-nav:hover {
@@ -221,6 +225,7 @@ main, #head-contain {
 }
 #top-content {
   display: grid;
+  overflow: hidden;
   grid-template-columns: 1fr;
   grid-template-rows: max-content max-content 20vh;
   gap: 0;
@@ -240,6 +245,7 @@ main, #head-contain {
 }
 .due-box {
   grid-area: wd;
+  grid-template-rows: max-content;
   padding: 5vw;
   background-color: $dark-color;
   color: $light-color;
@@ -372,13 +378,18 @@ aside {
 }
 h1, h2, h3, h4, h5 {
   margin: 0;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 1.15;
+  font-family: $font-stack-headings;
+  color: $dark-color;
 }
 h1 {
   font-family: $font-stack-bighead;
   margin-top: 0;
-  font-size: 2.5em;
+  font-size: 20vw;
+  line-height: .9em;
+  padding: 10px 0 0 0;
+  margin-left: -6px;
   text-transform: uppercase;
   letter-spacing: .1rem;
   font-weight: 700;
@@ -388,7 +399,10 @@ h1 {
 .interior h1 {
   color: $primary-color;
 }
-
+.interior h2.page-title {
+  font-family: $font-stack-bighead;
+  font-size: 4.882em;
+}
 h2 {
   font-size: 2.441em;
   text-transform: uppercase;
@@ -397,8 +411,30 @@ h2 {
   margin-top: .25rem;
 }
 
-h3 {font-size: 1.653em; margin-top: 45px; font-weight: bold;}
-
+h3 {
+  font-size: 1.653em;
+  margin-top: 45px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h2.section-title {
+  color: $primary-color;
+  font-size: 2.8em;
+}
+.home-due h3 {
+  color: $primary-color;
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
+.home-due h4 {
+  color: $light-color;
+  margin-top: 5px;
+  letter-spacing: 1px;
+}
+.home-due p {
+  font-family: $font-stack-body;
+  font-size: 16px;
+}
 h4 {
   font-size: 1.2em;
   margin-top: 25px;
@@ -433,7 +469,7 @@ ul.date-list {
   list-style-type: none;
 }
 .date {
-  color: $primary-color;
+  color: $secondary-color;
 }
 .spoiler {
   color: white;
@@ -575,6 +611,15 @@ hr {
    .due-box {
      padding: 2.5vw;
    }
+   section {
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+     grid-gap: 2.5vw 2.5vw;
+     margin: 50px 0;
+   }
+   .section-title {
+     grid-column: span 2;
+   }
    h1 a, h1 a:hover, h1 a:active, h1 a:visited {
      color: $dark-color;
      // -webkit-text-stroke: 3px $dark-color;
@@ -585,7 +630,6 @@ hr {
    }
    h1 {
      margin-top: 0;
-     font-size: 4.25em;
      text-transform: uppercase;
      letter-spacing: .1rem;
      font-weight: 700;
@@ -607,6 +651,20 @@ hr {
    }
 }
 @media only screen and (min-width: 620px) {
+  .pattern-container {
+    width: 200%;
+  }
+}
+@media only screen and (min-width: 630px) {
+  h1 {
+    font-size: 16vw;
+    line-height: .9em;
+    padding: 20px 0 0 0;
+    margin-left: -6px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
   nav {
     width: 100%;
     margin: 0;
@@ -639,37 +697,18 @@ hr {
   nav .mobile-hide {
     display: block;
   }
-  .pattern-container {
-    width: 200%;
+  main, .about, #head-contain {
+    width: 95vw;
   }
-}
-@media only screen and (min-width: 630px) {
+  .tutorial-page, .single {
+    width: 75%;
+  }
   h1 {
-    font-size: 5.652em;
+    font-size: 16vw;
+    line-height: .9em;
+    padding: 20px 0 0 0;
+    margin-left: -9px;
   }
-}
-
-@media only screen and (min-width: 768px) {
-    /* Style adjustments for viewports that meet the condition */
-    main, .about, #head-contain {
-      width: 95vw;
-    }
-    .tutorial-page, .single {
-      width: 75%;
-    }
-    section {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      grid-gap: 2.5vw 2.5vw;
-      margin: 50px 0;
-    }
-    .section-title {
-      grid-column: span 2;
-    }
-    h1 {
-      font-size: 6.052em;
-    }
-
 }
 @media only screen and (min-width: 1024px) {
     /* Style adjustments for viewports that meet the condition */
@@ -678,7 +717,7 @@ hr {
       display: flow-root;
     }
     #top-content {
-      height: 80vh;
+      height: 85vh;
       grid-template-columns: 29vw 29vw 1fr;
       grid-template-rows: max-content 1fr;
       gap: 0;
@@ -728,7 +767,10 @@ hr {
       grid-column: span 3;
     }
     h1 {
-      font-size: 6.052em;
+      font-size: 12vw;
+      line-height: .9em;
+      padding: 20px 0 0 0;
+      margin-left: -7px;
     }
 }
 @media only screen and (min-width: 1400px) {
@@ -738,9 +780,9 @@ hr {
       left: 0;
     }
     #top-content {
-      height: 80vh;
+      height: 85vh;
       grid-template-columns: 22vw 22vw 22vw 1fr;
-      grid-template-rows: max-content 1fr;
+      grid-template-rows: max-content min-content;
       gap: 0;
       grid-template-areas:
         "pi pi pi wd"
@@ -772,10 +814,10 @@ hr {
       grid-column: span 4;
     }
     h1 {
-      font-size: 9.052em;
+      font-size: 14vw;
       line-height: .9em;
       padding: 20px 0 0 0;
-      margin-left: -5px;
+      margin-left: -10px;
     }
 }
 @media only screen and (min-width: 1800px) {
