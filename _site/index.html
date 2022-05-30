@@ -46,10 +46,9 @@
     <h2 class="section-title">What's Due?</h2>
 
 
-
     
     
-      <article class="home-due">
+      <article class="home-due" future-date="20220606">
         <h3>June 06</h3>
         <h4 id="nothing">Nothing</h4>
 <p>It’s the first day of class!</p>
@@ -60,7 +59,7 @@
 
     
     
-      <article class="home-due">
+      <article class="home-due" future-date="20220608">
         <h3>June 08</h3>
         <h4 id="exercise-1-dot-gif">Exercise 1: Dot Gif</h4>
 <p>Submit the gif for the E1 assignment on Blackboard.</p>
@@ -325,5 +324,32 @@
 
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
     <script src="/assets/js/main.js" charset="utf-8"></script>
+    <script>
+    function getCompareDate() {
+        var d = new Date(),
+            month = '' + (d.getMonth() + 1),
+            day = '' + d.getDate(),
+            year = d.getFullYear();
+        if (month.length < 2) month = '0' + month;
+        if (day.length < 2) day = '0' + day;
+        return [year, month, day].join('');
+    }
+    $('[future-date]').each(function() {
+        if($(this).attr('future-date') < getCompareDate()) $(this).hide();
+    });
+
+    var firstfuturedate = $("[first-future-date]").sort(sortbydate);
+    function sortbydate(a, b) {
+        return ($(b).attr('first-future-date')) < ($(a).attr('first-future-date')) ? 1 : -1;
+    }
+    $(firstfuturedate).each(function() {
+        $('[first-future-date]').hide();
+        if($(this).attr('first-future-date') > getCompareDate()) {
+            $(this).show();
+            return false;
+        }
+    });
+</script>
+
   </body>
 </html>
