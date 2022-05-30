@@ -1,8 +1,7 @@
 <h2 class="section-title">What's Due?</h2>
 {% assign counter = 0 %}
 {% for post in site.categories.due reversed %}
-    {% assign show = post.show %}
-    {% if show == true and counter < 2 %}
+    {% if counter < 2 %}
       <article class="home-due" future-date="{{ post.date | date: '%Y%m%d' }}">
         <h3>{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }}</h3>
         {{ post.content }}

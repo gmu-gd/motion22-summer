@@ -252,19 +252,19 @@ main, #head-contain {
 }
 .pattern-container {
   width: 300%;
-  margin: -25px;
+  margin: -5px -25px;
   display: flow-root;
 }
 .pattern-container div {
   float: left;
-  font-size: 40px;
+  font-size: 50px;
   margin: 0 10px;
 }
 .pattern-container div.row-even, div.row-odd {
   margin-top: -25px;
 }
 .pattern-container div.row-even {
-  margin-left: -18px;
+  margin-left: -20px;
 }
 .about {
   width: 90vw;
@@ -717,9 +717,10 @@ hr {
       display: flow-root;
     }
     #top-content {
+      min-height: 500px;
       height: 85vh;
       grid-template-columns: 29vw 29vw 1fr;
-      grid-template-rows: max-content 1fr;
+      grid-template-rows: max-content max-content;
       gap: 0;
       grid-template-areas:
         "pi pi wd"
@@ -780,9 +781,10 @@ hr {
       left: 0;
     }
     #top-content {
+      min-height: 600px;
       height: 85vh;
       grid-template-columns: 22vw 22vw 22vw 1fr;
-      grid-template-rows: max-content min-content;
+      grid-template-rows: max-content max-content;
       gap: 0;
       grid-template-areas:
         "pi pi pi wd"
