@@ -44,55 +44,67 @@
   </div>
   <div class="due-box">
     <h2 class="section-title">What's Due?</h2>
+<p>Not sure what is due next class or in the future? Below is a quick list and you can find more information on the <a href="/due/index.html">What's Due</a> page or on Blackboard.</p>
+
+
+
+
+
 
 
     
-      <article class="home-due" future-date="20220606">
-        <h3>June 06</h3>
-        <h4 id="nothing">Nothing</h4>
-<p>It’s the first day of class!</p>
-
-      </article>
+    
+    <hr>
       
-    
-
-    
-      <article class="home-due" future-date="20220608">
+      <article class="home-due">
         <h3>June 08</h3>
-        <h4 id="exercise-1-dot-gif">Exercise 1: Dot Gif</h4>
-<p>Submit the gif for the E1 assignment on Blackboard.</p>
-
-<h4 id="p11-checkpoint-1">P1.1: Checkpoint 1</h4>
-<p>A printed PDF of your two drafts and storyboards and that PDF uploaded to Blackboard. The PDF should be 4 pages, in the portrait orientation, and letter sized.</p>
-
+        Nothing! It's the first day of class.
       </article>
+      
+      
       
     
 
     
-
     
 
     
-
     
 
     
-
     
 
     
-
     
 
     
-
     
 
     
-
     
 
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
     
 
 
@@ -288,19 +300,63 @@
     <!-- <p class="section-title text-small"><span>Students</span></p> -->
     
   <article class="student">
-    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/michael.gif" alt="gif of name"></a>
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/jihyun.gif" alt="jihyun's name animated"></a>
   </article>
 
   <article class="student">
-    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/michael.gif" alt="gif of name"></a>
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/beth.gif" alt="beth's name animated"></a>
   </article>
 
   <article class="student">
-    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/michael.gif" alt="gif of name"></a>
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/charlie.gif" alt="charlie's name animated"></a>
   </article>
 
   <article class="student">
-    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/michael.gif" alt="gif of name"></a>
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/claudia.gif" alt="claudia's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/sophie.gif" alt="sophie's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/jihyun.gif" alt="jihyun's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/john.gif" alt="john's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/sophie.gif" alt="sophie's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/maria.gif" alt="maria's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/mirella.gif" alt="mirella's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/sophie.gif" alt="sophie's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/udari.gif" alt="udari's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/will.gif" alt="will's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/yujung.gif" alt="yujung's name animated"></a>
+  </article>
+
+  <article class="student">
+    <a href="https://vimeo.com/groups/764701"><img src="/assets/img/group.gif" alt="group's name animated"></a>
   </article>
 
 
@@ -309,32 +365,5 @@
 
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
     <script src="/assets/js/main.js" charset="utf-8"></script>
-    <script>
-    function getCompareDate() {
-        var d = new Date(),
-            month = '' + (d.getMonth() + 1),
-            day = '' + d.getDate(),
-            year = d.getFullYear();
-        if (month.length < 2) month = '0' + month;
-        if (day.length < 2) day = '0' + day;
-        return [year, month, day].join('');
-    }
-    $('[future-date]').each(function() {
-        if($(this).attr('future-date') < getCompareDate()) $(this).hide();
-    });
-
-    var firstfuturedate = $("[first-future-date]").sort(sortbydate);
-    function sortbydate(a, b) {
-        return ($(b).attr('first-future-date')) < ($(a).attr('first-future-date')) ? 1 : -1;
-    }
-    $(firstfuturedate).each(function() {
-        $('[first-future-date]').hide();
-        if($(this).attr('first-future-date') > getCompareDate()) {
-            $(this).show();
-            return false;
-        }
-    });
-</script>
-
   </body>
 </html>

@@ -173,7 +173,7 @@ li a.active {
 }
 li a.active:hover, .interior li a:hover, .interior a:hover {
   color: $dark-color;
-  border-bottom: 3px solid $light-color;
+  border-bottom: 3px solid $secondary-color;
 }
 .interior h1 a, .interior h1 a:hover {
   border-bottom: none;
@@ -181,6 +181,14 @@ li a.active:hover, .interior li a:hover, .interior a:hover {
 }
 a.main-link, a.main-link:hover, .interior li a.main-link, .interior li a.main-link:hover {
   border-bottom: none;
+}
+.due-box a, .due-box a:visited {
+  color: $light-color;
+  border-bottom: 3px solid $primary-color;
+}
+.due-box a:hover, .due-box a:active {
+  color: $light-color;
+  border-bottom: 3px solid $secondary-color;
 }
 header {
   width: 100%;
@@ -215,6 +223,7 @@ nav #menu {
 nav #menu li {
   font-size: 2em;
   margin: 30px 0;
+  float: none;
 }
 nav .mobile-hide {
   display: none;
@@ -401,7 +410,7 @@ h1 {
 }
 .interior h2.page-title {
   font-family: $font-stack-bighead;
-  font-size: 4.882em;
+  font-size: 4em;
 }
 h2 {
   font-size: 2.441em;
@@ -511,6 +520,10 @@ h1 .info {
 hr {
   border-top: 3px solid $primary-color;
   margin: 25px 0 50px;
+}
+.due-box hr {
+  border-top: 3px dotted $primary-color;
+  margin: 25px 0 15px;
 }
  /* ==========================================================================
    Helper classes

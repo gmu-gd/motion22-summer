@@ -1,5 +1,5 @@
 {% for post in site.categories.student reversed%}
   <article class="student">
-    <a href="{{ post.link | absolute_url }}"><img src="{{ site.baseurl }}/assets/img/{{post.title}}.gif" alt="gif of name"></a>
+    <a href="{{ post.link | absolute_url }}"><img src="{{ site.baseurl }}/assets/img/{{post.title}}.gif" alt="{{post.title}}'s name animated"></a>
   </article>
 {% endfor %}

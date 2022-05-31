@@ -53,11 +53,15 @@ li a:hover { border-bottom: 3px solid #1DFFA8; }
 
 li a.active { color: #1a1a1a; border-bottom: 3px solid #39A0ED; }
 
-li a.active:hover, .interior li a:hover, .interior a:hover { color: #1a1a1a; border-bottom: 3px solid white; }
+li a.active:hover, .interior li a:hover, .interior a:hover { color: #1a1a1a; border-bottom: 3px solid #39A0ED; }
 
 .interior h1 a, .interior h1 a:hover { border-bottom: none; color: #1DFFA8; }
 
 a.main-link, a.main-link:hover, .interior li a.main-link, .interior li a.main-link:hover { border-bottom: none; }
+
+.due-box a, .due-box a:visited { color: white; border-bottom: 3px solid #1DFFA8; }
+
+.due-box a:hover, .due-box a:active { color: white; border-bottom: 3px solid #39A0ED; }
 
 header { width: 100%; background-color: #1DFFA8; padding: 5px 0 10px; }
 
@@ -71,7 +75,7 @@ nav li.mobile-nav:hover { cursor: pointer; }
 
 nav #menu { position: fixed; top: 0; left: 0; background-color: white; width: 100vw; height: 100vh; z-index: 100; padding: 25px 50px; }
 
-nav #menu li { font-size: 2em; margin: 30px 0; }
+nav #menu li { font-size: 2em; margin: 30px 0; float: none; }
 
 nav .mobile-hide { display: none; }
 
@@ -151,7 +155,7 @@ h1 { font-family: rig-solid-bold-halftone, sans-serif; margin-top: 0; font-size:
 
 .interior h1 { color: #1DFFA8; }
 
-.interior h2.page-title { font-family: rig-solid-bold-halftone, sans-serif; font-size: 4.882em; }
+.interior h2.page-title { font-family: rig-solid-bold-halftone, sans-serif; font-size: 4em; }
 
 h2 { font-size: 2.441em; text-transform: uppercase; letter-spacing: .1px; font-weight: 700; margin-top: .25rem; }
 
@@ -194,6 +198,8 @@ h1 .info { font-size: 16px; color: #1a1a1a; letter-spacing: 1px; }
 .link-small { font-size: 0.8em; font-weight: 700; text-transform: uppercase; letter-spacing: .1px; border-bottom: 3px solid #1a1a1a; }
 
 hr { border-top: 3px solid #1DFFA8; margin: 25px 0 50px; }
+
+.due-box hr { border-top: 3px dotted #1DFFA8; margin: 25px 0 15px; }
 
 /* ========================================================================== Helper classes ========================================================================== */
 /* Hide visually and from screen readers */
