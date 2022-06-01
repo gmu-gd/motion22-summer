@@ -1,9 +1,9 @@
 # File: .github/workflows/rebuild.yml
-name: Rebuild
+name: 3am Rebuild
 
 on:
   schedule:
-    - cron:  '0 0 * * *' # Runs every day at 12am
+    - cron:  '0 3 * * *' # Runs every day at 3am
 
 jobs:
   refresh:
