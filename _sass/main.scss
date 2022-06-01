@@ -432,13 +432,19 @@ h2.section-title {
 }
 .home-due h3 {
   color: $primary-color;
-  margin-top: 20px;
+  margin-top: 0;
   letter-spacing: 1px;
 }
 .home-due h4 {
   color: $light-color;
   margin-top: 5px;
   letter-spacing: 1px;
+}
+.home-due h5 {
+  color: $light-color;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  font-size: 12px;
 }
 .home-due p {
   font-family: $font-stack-body;

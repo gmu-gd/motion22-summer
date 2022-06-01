@@ -1,6 +1,6 @@
 timezone: America/New_York
 permalink: /:categories/:title/
-future: true
+future: false
 defaults:
   # due
   - scope:

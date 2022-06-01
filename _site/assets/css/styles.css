@@ -163,9 +163,11 @@ h3 { font-size: 1.653em; margin-top: 45px; font-weight: bold; text-transform: up
 
 h2.section-title { color: #1DFFA8; font-size: 2.8em; }
 
-.home-due h3 { color: #1DFFA8; margin-top: 20px; letter-spacing: 1px; }
+.home-due h3 { color: #1DFFA8; margin-top: 0; letter-spacing: 1px; }
 
 .home-due h4 { color: white; margin-top: 5px; letter-spacing: 1px; }
+
+.home-due h5 { color: white; margin-top: 20px; letter-spacing: 1px; font-size: 12px; }
 
 .home-due p { font-family: sofia-pro, sans-serif; font-size: 16px; }
 
