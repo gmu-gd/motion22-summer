@@ -201,7 +201,7 @@ h1 .info { font-size: 16px; color: #1a1a1a; letter-spacing: 1px; }
 
 hr { border-top: 3px solid #1DFFA8; margin: 25px 0 50px; }
 
-.due-box hr { border-top: 3px dotted #1DFFA8; margin: 25px 0 15px; }
+.due-box hr { border-top: 3px dotted #1DFFA8; margin: 25px 0; }
 
 /* ========================================================================== Helper classes ========================================================================== */
 /* Hide visually and from screen readers */

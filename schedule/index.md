@@ -7,7 +7,7 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### January 27 &mdash; Week 1
+### June 6 &mdash; Day 1
 In our first week we will go over the framework for the class, meet each other, and make a gif.
 
 #### Lessons
@@ -20,7 +20,7 @@ In our first week we will go over the framework for the class, meet each other, 
 
 ---
 
-### February 3 &mdash; Week 2
+### June 8 &mdash; Day 2
 Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and cover other parts of the planning process. We will also show some moving poster examples.
 
 #### Lessons
@@ -36,7 +36,7 @@ Motion projects take thought and planning to execute well. This week we will cov
 
 ---
 
-### February 10 &mdash; Week 3
+### June 13 &mdash; Day 3
 After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.
 
 #### Class
@@ -55,7 +55,7 @@ After Effects is a complex and powerful program which we will only start to unde
 
 ---
 
-### February 17 &mdash; Week 4
+### June 15 &mdash; Day 4
 Taking our knowledge a little further we will talk about the 12 Principles of Animation and cover null objects and parenting which allow us to group pieces and animate them as a unit.
 
 #### Class
@@ -73,7 +73,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 
 ---
 
-### February 24 &mdash; Week 5
+### June 20 &mdash; Day 5
 The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and the graph editor. The graph editor is a way for us to more precisely control motion in After Effects.
 
 #### Class
@@ -94,7 +94,7 @@ The two topics covered this week are important for any motion project. Cuts and 
 
 ---
 
-### March 3 &mdash; Week 6
+### June 22 &mdash; Day 6
 We dive a little deeper into After Effects this week looking at some animation techniques and reviewing masks and mattes.
 
 #### Class Lessons
@@ -113,7 +113,7 @@ We dive a little deeper into After Effects this week looking at some animation t
 
 ---
 
-### March 10 &mdash; Week 7
+### June 27 &mdash; Day 7
 Our After Effects training has generally come to an end this week and we start to begin the final project. This week we will cover ideas about title sequences, kinetic type, and broadcast packages.
 
 #### Class Lessons
@@ -133,12 +133,12 @@ Our After Effects training has generally come to an end this week and we start t
 
 ---
 
-### March 17 &mdash; Week 8
-No class, Spring Break!
+### July 4 &mdash; Day 8
+No class, July 4th!
 
 ---
 
-### March 24 &mdash; Week 9
+### July 6 &mdash; Day 9
 Individual meetings this week to present your final project beginnings.
 
 #### Lessons
@@ -146,7 +146,7 @@ Individual meetings this week to present your final project beginnings.
 
 ---
 
-### March 31 &mdash; Week 10
+### July 11 &mdash; Day 10
 Logo reveals can add a lot of energy to a simple logo by bringing in a bit of motion. This week we will find some examples and create our own.
 
 #### Lessons
@@ -161,12 +161,12 @@ Logo reveals can add a lot of energy to a simple logo by bringing in a bit of mo
 
 ---
 
-### April 7 &mdash; Week 11
+### July 13 &mdash; Day 11
 Come to class ready to work with your best ideas. This week you will create a video in class and we will screen them all at the end.
 
 ---
 
-### April 14 &mdash; Week 12
+### July 18 &mdash; Day 12
 Individual meetings this week to look at your projects.
 
 #### Lessons
@@ -174,7 +174,7 @@ Individual meetings this week to look at your projects.
 
 ---
 
-### April 21 &mdash; Week 13
+### July 20 &mdash; Day 13
 Group meetings to discuss your projects. For an out of class activity watch the tutorials below on expressions and complete E9.
 
 #### Lessons
@@ -192,7 +192,7 @@ Group meetings to discuss your projects. For an out of class activity watch the 
 
 ---
 
-### April 28 &mdash; Week 14
+### July 25 &mdash; Day 14
 Group critique to discuss your projects.
 
 #### Lessons
@@ -200,10 +200,5 @@ Group critique to discuss your projects.
 
 ---
 
-### May 5 &mdash; Week 15
+### July 27 &mdash; Day 15
 The final week to review any odds and ends.
-
----
-
-### May 12 &mdash; Week 16
-Final critiques.
