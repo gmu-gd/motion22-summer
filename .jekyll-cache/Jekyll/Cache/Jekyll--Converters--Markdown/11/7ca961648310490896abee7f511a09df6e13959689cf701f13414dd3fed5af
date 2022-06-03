@@ -1,52 +1,10 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Syllabus</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="stylesheet" href="https://use.typekit.net/dyc5bmi.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-  <body class="interior">
-    <header>
-  <div id="head-contain">
-    <nav>
-  <ul>
-    <li><a class="main-link" href="/" />Motion Design</a></li>
-    <li><i class="fas fa-arrow-right"></i></li>
-    <li class="mobile-nav"><a>menu</a></li>
-    <div id="menu" class="mobile-hide">
-    
-      <li><a href="/syllabus/" class="active">Syllabus</a></li>
-    
-      <li><a href="/schedule/" >Schedule</a></li>
-    
-      <li><a href="/projects/" >Projects</a></li>
-    
-      <li><a href="/reference/" >Reference</a></li>
-    
-      <li><a href="/due/" >What's Due</a></li>
-    
-    </div>
-  </ul>
-</nav>
-
-  </div>
-</header>
-
-    <main>
-      <article class="single">
-        <h2 class="page-title"> Syllabus </h2>
-        <h3 id="general">General</h3>
+I"�Z<h3 id="general">General</h3>
 <p>This is the syllabus for the <em>Summer 2022</em> class of <em>AVT 411: Motion Design (3 credits)</em>. The instructor is <em>Michael McDermott</em>, can be reached by email at <em>mmcderm8 at gmu dot edu</em>, and can be met with at his <a href="https://calendly.com/michaelmcdermott">virtual office hours</a> on Tuesdays from 12–2 and Thursdays from 12–2. Office hours can also be scheduled outside of those times if necessary.</p>
 
 <p><a href="/assets/files/AVT411-Syllabus-Spring2022.pdf">Download a PDF version</a></p>
 
 <h3 id="delivery-and-timing">Delivery and Timing</h3>
-<p>We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 8 weeks plus a final critique day and you can expect to work for 12 hours outside of class each week.</p>
+<p>We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 15 weeks plus a final critique day and you can expect to work for 6 hours outside of class each week.</p>
 
 <h3 id="prerequisites">Prerequisites</h3>
 <p>AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods</p>
@@ -77,7 +35,7 @@
 <p>You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements for more information.</p>
 
 <h4 id="other">other</h4>
-<p>Zoom (for class), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.</p>
+<p>Zoom (joining class sessions if necessary), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.</p>
 
 <h3 id="content">Content</h3>
 <p>This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.</p>
@@ -137,27 +95,39 @@
 <h3 id="discussion-of-work">Discussion of Work</h3>
 <p>You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and write about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.</p>
 
+<h3 id="visual-voices-lecture-series">Visual Voices Lecture Series</h3>
+<p>Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20–9:00 pm:</p>
+
+<ul class="date-list">
+<li><span class="date">Feb 10:</span> Wanda Raimundi-Ortiz</li>
+<li><span class="date">Feb 24:</span> Laurel Nakadate</li>
+<li><span class="date">Mar 10:</span> Paul Rucker</li>
+<li><span class="date">Apr 7:</span> Mario Rossero</li>
+</ul>
+
+<p>For Spring 2022, this <a href="https://www.masonexhibitions.org/visual-voices-spring-2022">lecture series</a> will be held online.</p>
+
 <h3 id="school-of-art-social-media-accounts">School of Art Social Media Accounts</h3>
 <p>IG: gmusoa / FB: gmu.soa / TW: gmusoa</p>
 
 <h3 id="writing-center-and-library-resources">Writing Center and Library Resources</h3>
-<p>Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center <a href="https://writingcenter.gmu.edu/">https://writingcenter.gmu.edu/</a> For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor’s written feedback. Please send your questions to wcenter@gmu.edu</p>
+<p>Students who are in need of intensive help with grammar, structure or mechanics in their writing should make use of the services of Writing Center https://writingcenter.gmu.edu/ For Spring 2022, the Writing Center is holding all sessions online, with writers choosing between meeting their tutor in real time on Zoom or uploading a draft for their tutor’s written feedback. Please send your questions to wcenter@gmu.edu</p>
 
 <p>Provisions Research Center for Art &amp; Social Change is located in Room L001 of the Art &amp; Design Building. This student resource assists students in exploring and engaging new models for artmaking that lead to a more inclusive, equitable, and connected society. Provisions is also a hub for developing art projects through Mason Exhibitions, the Mural Brigade, and art partners throughout the metropolitan area, and beyond. Contact Don Russell for more information: drusse10@gmu.edu</p>
 
-<p>Art and Art History Librarian, Stephanie Grimm, will have irregular hours in Provisions Library and offer research consultations by appointment (virtual and in-person) for Summer 2022: <a href="https://go.gmu.edu/sgrimm4">https://go.gmu.edu/sgrimm4</a></p>
+<p>Art and Art History Librarian, Stephanie Grimm, will have irregular hours in Provisions Library and offer research consultations by appointment (virtual and in-person) for Summer 2022: https://go.gmu.edu/sgrimm4</p>
 
 <h3 id="official-communications-via-mason-e-mail">Official Communications via Mason E-mail</h3>
 <p>Students are responsible for the content of university communications sent to their George Mason University e-mail account and are required to activate their account and check it regularly. All communication from the university, college, school, and program will be sent to students solely through their Mason e-mail account.</p>
 
 <h3 id="students-with-disabilities-and-learning-differences">Students with Disabilities and Learning Differences</h3>
-<p>Students with disabilities who seek accommodations in a course must be registered with the George Mason University Office of Disability Services (ODS) and inform their instructor, in writing, at the beginning of the semester <a href="http://ods.gmu.edu">http://ods.gmu.edu</a></p>
+<p>Students with disabilities who seek accommodations in a course must be registered with the George Mason University Office of Disability Services (ODS) and inform their instructor, in writing, at the beginning of the semester http://ods.gmu.edu</p>
 
 <h3 id="attendance-policies">Attendance Policies</h3>
 <p>Students are expected to attend the class periods of the courses for which they register. In-class (including sections that meet online) participation is important not only to the individual student, but also to the class as a whole. Because class participation may be a factor in grading, instructors may use absence, tardiness, or early departure as de facto evidence of nonparticipation. Students who miss an exam with an acceptable excuse may be penalized according to the individual instructor’s grading policy, as stated in the course syllabus.</p>
 
 <h3 id="honor-code">Honor Code</h3>
-<p>To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University Community and with the desire for greater academic and personal achievement, we, the student members of the university community, have set forth this Honor Code: Student Members of the George Mason University community pledge not to cheat, plagiarize, steal, or lie in matters related to academic work. <a href="https://oai.gmu.edu/mason-honor-code/">https://oai.gmu.edu/mason-honor-code/</a></p>
+<p>To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University Community and with the desire for greater academic and personal achievement, we, the student members of the university community, have set forth this Honor Code: Student Members of the George Mason University community pledge not to cheat, plagiarize, steal, or lie in matters related to academic work. https://oai.gmu.edu/mason-honor-code/</p>
 
 <h3 id="responsible-employee-disclosure">Responsible Employee Disclosure</h3>
 <p>As a faculty member, I am designated as a “Responsible Employee,” and must report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per University Policy 1202. If you wish to speak with someone confidentially, please contact one of Mason’s confidential resources, such as Student Support and Advocacy Center (SSAC) at 703-380-1434 or Counseling and Psychological Services (CAPS) at 703-993-2380. You may also seek assistance from Mason’s Title IX Coordinator by calling 703-993-8730, or emailing titleix@gmu.edu</p>
@@ -178,7 +148,7 @@
   <li>All indoor environments offering programs for minors ages 2 to 5</li>
 </ul>
 
-<p>For more information, please visit: <a href="https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings">https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings</a></p>
+<p>For more information, please visit: https://www.gmu.edu/safe-return-campus/personal-and-public-health/face-coverings</p>
 
 <h3 id="caps-at-mason-is-here-for-you">CAPS at Mason is Here for You</h3>
 <p>Counseling &amp; Psychological Services provides a wide range of free services to students. CAPS offers crisis, counseling, and psychiatric services virtually, and limited services in person. Services are provided by a staff of licensed clinical psychologists, licensed professional counselors, licensed social workers, doctoral-level trainees, and a board-certified psychiatrist. Our individual and group counseling, workshops, and community education programs are designed to enhance students’ personal experience and academic performance. For distance learners, please see our Resources for Distance Learning page. We also provide consultation to faculty and staff who have concerns about a student</p>
@@ -198,30 +168,30 @@
 <p>At the place George Mason University occupies, we give greetings and thanksgivings to these Potomac River life sources, the Doeg ancestors, who Virginia annihilated in violent campaigns while ripping their lands apart with the brutal system of African American enslavement, to the recognized Virginia tribes who have lovingly stewarded these lands for millennia including the Rappahannock, Pamunkey, Upper Mattaponi, Chickahominy, Eastern Chickahominy, Nansemond, Monacan, Mattaponi, Patawomeck, and Nottaway, past, present, and future, and to the Piscataway tribes, who have lived on both sides of the river from time immemorial.</p>
 
 <h3 id="technology-requirements">Technology Requirements</h3>
-<p>Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit <a href="https://www.adobe.com/creativecloud/buy/students.html">https://www.adobe.com/creativecloud/buy/students.html</a>. If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit <a href="https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/">https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/</a> to apply. Please note that the Adobe license agreement is on an annual basis.</p>
+<p>Note that this course requires/strongly recommends the use of Adobe Creative Cloud applications. If you do not already have an Adobe license and are interested in purchasing one or have an Adobe license and need to renew it, please visit https://www.adobe.com/creativecloud/buy/students.html. If you cannot afford an Adobe license, you may submit a request for funding to the Student Emergency Assistance Fund. Please visit https://ulife.gmu.edu/student-emergency-assistance-funding-2-2/ to apply. Please note that the Adobe license agreement is on an annual basis.</p>
 
-<p>The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people <a href="https://its.gmu.edu/service/club/">https://its.gmu.edu/service/club/</a></p>
+<p>The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the lab offers in-person one-on-one support for the Adobe Creative Suite, Microsoft Office, Blackboard, and a variety of other software. Dual monitor PCs make the lab ideal for collaborating on group projects, Macs are also available; as well as a digital recording space, collaborative tables, and a SMART Board. Reservations are strongly encouraged due to COVID-19 precautions and limited amounts of resources, but walk-ins will still be accepted so long as the occupancy of the lab does not exceed the maximum of 16 people https://its.gmu.edu/service/club/</p>
 
 <h3 id="important-deadlines">Important Deadlines</h3>
 <ul class="date-list">
-  <li><span class="date">June 7:</span> First Day of Spring Classes</li>
-  <li><span class="date">June 9:</span> Last Day to Add/Drop w/no tuition liability</li>
-  <li><span class="date">June 15:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
-  <li><span class="date">June 20:</span> Juneteenth: University Closed</li>
-  <li><span class="date">June 16&ndash;June 23:</span> Unrestricted Withdrawal</li>
-  <li><span class="date">June 24&ndash;July 12:</span> Selective Withdrawal</li>
-  <li><span class="date">July 4:</span> Independence Day: University Closed</li>
-  <li><span class="date">July 27:</span> Last Day of Classes</li>
-  <li><span class="date">July 28&ndash;30:</span> Final Exam Period</li>
+<li><span class="date">June 7:</span> First Day of Spring Classes</li>
+<li><span class="date">June 9:</span> Last Day to Add/Drop w/no tuition liability</li>
+<li><span class="date">June 15:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
+<li><span class="date">June 20:</span> Juneteenth: University Closed</li>
+<li><span class="date">Mar 14&ndash;Mar 20:</span> Spring Break (classes do not meet)</li>
+<li><span class="date">Feb 21&ndash;Mar 25:</span> Mid-Term Evaluation Period: 100-200 Level Classes Grades Available via patriotweb</li>
+<li><span class="date">Mar 2&ndash;Apr 11:</span> Selective Withdrawal Period Undergraduate Students Only (100% Tuition Liability)</li>
+<li><span class="date">Mar 25:</span> Incomplete Work from Fall 2021 Due to Instructor</li>
+<li><span class="date">Apr 1:</span> Incomplete Grade Changes from Fall 2021 Due to Registrar</li>
+<li><span class="date">May 6:</span> Dissertation/Thesis Deadline</li>
+<li><span class="date">May 7:</span> Last Day of Class</li>
+<li><span class="date">May 9&ndash;10:</span> Reading Days</li>
+<li><span class="date">Dec 11&ndash;18:</span> Examination Period</li>
+<li><span class="date">Dec 20:</span> University Commencement</li>
+<li><span class="date">Dec 21:</span> Degree Conferral Date</li>
 </ul>
 
-<p><a href="https://registrar.gmu.edu/calendars/summer_2022/">https://registrar.gmu.edu/calendars/summer_2022/</a></p>
+<p>https://registrar.gmu.edu/calendars/summer_2022/</p>
 
 <p>Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed), LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.</p>
-
-      </article>
-    </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js" charset="utf-8"></script>
-  </body>
-</html>
+:ET

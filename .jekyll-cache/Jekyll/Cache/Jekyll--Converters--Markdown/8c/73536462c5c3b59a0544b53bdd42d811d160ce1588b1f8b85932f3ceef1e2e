@@ -1,52 +1,10 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Syllabus</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="stylesheet" href="https://use.typekit.net/dyc5bmi.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-  <body class="interior">
-    <header>
-  <div id="head-contain">
-    <nav>
-  <ul>
-    <li><a class="main-link" href="/" />Motion Design</a></li>
-    <li><i class="fas fa-arrow-right"></i></li>
-    <li class="mobile-nav"><a>menu</a></li>
-    <div id="menu" class="mobile-hide">
-    
-      <li><a href="/syllabus/" class="active">Syllabus</a></li>
-    
-      <li><a href="/schedule/" >Schedule</a></li>
-    
-      <li><a href="/projects/" >Projects</a></li>
-    
-      <li><a href="/reference/" >Reference</a></li>
-    
-      <li><a href="/due/" >What's Due</a></li>
-    
-    </div>
-  </ul>
-</nav>
-
-  </div>
-</header>
-
-    <main>
-      <article class="single">
-        <h2 class="page-title"> Syllabus </h2>
-        <h3 id="general">General</h3>
+I"�W<h3 id="general">General</h3>
 <p>This is the syllabus for the <em>Summer 2022</em> class of <em>AVT 411: Motion Design (3 credits)</em>. The instructor is <em>Michael McDermott</em>, can be reached by email at <em>mmcderm8 at gmu dot edu</em>, and can be met with at his <a href="https://calendly.com/michaelmcdermott">virtual office hours</a> on Tuesdays from 12–2 and Thursdays from 12–2. Office hours can also be scheduled outside of those times if necessary.</p>
 
 <p><a href="/assets/files/AVT411-Syllabus-Spring2022.pdf">Download a PDF version</a></p>
 
 <h3 id="delivery-and-timing">Delivery and Timing</h3>
-<p>We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 8 weeks plus a final critique day and you can expect to work for 12 hours outside of class each week.</p>
+<p>We will meet online twice a week on Mondays and Wednesdays from 4:30 to 7:10 on Zoom. The classes are required and during our sessions we will discuss work, complete workshops, and further our design knowledge. The class is scheduled to run for 15 weeks plus a final critique day and you can expect to work for 6 hours outside of class each week.</p>
 
 <h3 id="prerequisites">Prerequisites</h3>
 <p>AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods</p>
@@ -77,7 +35,7 @@
 <p>You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements for more information.</p>
 
 <h4 id="other">other</h4>
-<p>Zoom (for class), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.</p>
+<p>Zoom (joining class sessions if necessary), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.</p>
 
 <h3 id="content">Content</h3>
 <p>This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.</p>
@@ -218,10 +176,4 @@
 <p><a href="https://registrar.gmu.edu/calendars/summer_2022/">https://registrar.gmu.edu/calendars/summer_2022/</a></p>
 
 <p>Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed), LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.</p>
-
-      </article>
-    </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js" charset="utf-8"></script>
-  </body>
-</html>
+:ET
