@@ -7,28 +7,28 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### June 6 &mdash; Day 1
+### June 8 &mdash; Day 1
 In our first week we will go over the framework for the class, meet each other, and make a gif.
 
-#### Lessons
+#### Topics
 * 1.1: Introduction
 * 1.2: Gifs
 
 #### Starting
-* E1: [dot gif]({{ site.baseurl }}/projects#e1)
-* P1: [Moving Poster]({{ site.baseurl }}/projects/p1)
+*E1: dot gif
+<!-- * E1: [dot gif]({{ site.baseurl }}/projects#e1) -->
 
 ---
 
-### June 8 &mdash; Day 2
-Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and cover other parts of the planning process. We will also show some moving poster examples.
+### June 13 &mdash; Day 2
+Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and other parts of the planning process.
 
-#### Lessons
+#### Topics
 * 2.1: Planning for Motion (Shots, Storyboards, Concept Boards, Animatics)
-* 2.2: The Moving Poster
 
 #### Starting
-* E2: [Making a Plan]({{ site.baseurl }}/projects#e2)
+* E2: Making a Plan
+<!-- * E2: [Making a Plan]({{ site.baseurl }}/projects#e2) -->
 
 #### Digital References
 * _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
@@ -36,16 +36,20 @@ Motion projects take thought and planning to execute well. This week we will cov
 
 ---
 
-### June 13 &mdash; Day 3
+### June 15 &mdash; Day 3
 After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.
 
-#### Class
-* [3.1: What is Motion Design?](https://docs.google.com/presentation/d/1QbgWZnx797h6DIg3auoEPKFWscQ32QsobIRWbuJSFqw/edit?usp=sharing)
+#### Topics
+* 3.1: What is Motion Design?
+<!-- * [3.1: What is Motion Design?](#) -->
 * 3.2: After Effects Tour
 * 3.3: Position, Scale, Opacity, Rotation
 
 #### Starting
-* E3: [Poster Animation]({{ site.baseurl }}/projects#e3)
+* E3: Timing, Pacing, Narrative
+<!-- * E3: [Timing, Pacing, Narrative]({{ site.baseurl }}/projects#e3) -->
+* P1: Obstructions
+<!-- * P1: [Obstructions]({{ site.baseurl }}/projects/p1) -->
 
 #### Digital References
 * _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
@@ -55,34 +59,42 @@ After Effects is a complex and powerful program which we will only start to unde
 
 ---
 
-### June 15 &mdash; Day 4
+### June 20 &mdash; Day 4
+No class, Juneteenth
+
+---
+
+### June 22 &mdash; Day 5
 Taking our knowledge a little further we will talk about the 12 Principles of Animation and cover null objects and parenting which allow us to group pieces and animate them as a unit.
 
-#### Class
+#### Topics
 * 4.1: 12 Principles of Animation
 * 4.2: Null Objects and Parenting
+* 4.3: Cuts and Transitions
 
 #### Starting
-* E4: [Sound and Motion]({{ site.baseurl }}/projects#e4)
-* P2: [Obstructions]({{ site.baseurl }}/projects/p2)
+* E4: Sound and Motion
+<!-- * E4: [Sound and Motion]({{ site.baseurl }}/projects#e4) -->
 
 #### Digital References
 * _Disney:_ [The 12 Principles of Animation as Illustrated Through Disney and Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
 * _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * _Adobe:_ [Control Animation of Multiple Layers with Parenting](https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
+
 ---
 
-### June 20 &mdash; Day 5
-The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and the graph editor. The graph editor is a way for us to more precisely control motion in After Effects.
+### June 27 &mdash; Day 6
+This week we will talk about the graph editor, whichis a way for us to more precisely control motion in After Effects. We will also dive a little deeper into After Effects and look at some animation techniques and review masks and mattes.
 
-#### Class
-* 5.1: Cuts and Transitions
-* 5.2: Graph Editor
+#### Topics
+* 5.1: Graph Editor
+* 5.2: Animating Shapes and Trim Paths
+* 5.3: Masks and Mattes
 
 #### Starting
-<!-- * E5: Type in Motion -->
-* E5: [Type in Motion]({{ site.baseurl }}/projects#e5)
+* E5: Poster Animation
+<!-- * E5: [Poster Animation]({{ site.baseurl }}/projects#e5) -->
 
 #### Digital References
 * _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
@@ -91,21 +103,6 @@ The two topics covered this week are important for any motion project. Cuts and 
 * _Adobe:_ [Build Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
 * _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 * _RocketJump Film School_ [Cuts &amp; Transitions 101](https://youtu.be/OAH0MoAv2CI)
-
----
-
-### June 22 &mdash; Day 6
-We dive a little deeper into After Effects this week looking at some animation techniques and reviewing masks and mattes.
-
-#### Class Lessons
-* 6.1: Animating Shapes and Trim Paths
-* 6.2: Masks and Mattes
-
-#### Starting
-<!-- * E6: Bouncing Ball -->
-* E6: [Bouncing Ball]({{ site.baseurl }}/projects#e6)
-
-#### Digital References
 * _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
 * _School of Motion:_ [Exaggerate Animation with Squash and Stretch](https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip)
 * _School of Motion:_ [Squash and Stretch in After Effects](https://www.schoolofmotion.com/blog/squash-stretch-after-effects)
@@ -113,15 +110,17 @@ We dive a little deeper into After Effects this week looking at some animation t
 
 ---
 
-### June 27 &mdash; Day 7
+### June 29 &mdash; Day 7
 Our After Effects training has generally come to an end this week and we start to begin the final project. This week we will cover ideas about title sequences, kinetic type, and broadcast packages.
 
-#### Class Lessons
-* 7.1: Title Sequences
-* 7.2: Kinetic Type
-* 7.3: Broadcast Package
+#### Topics
+* 6.1: Title Sequences
+* 6.2: Kinetic Type
+* 6.3: Broadcast Package
 
 #### Starting
+* E6: Type in Motion
+<!-- * E6: [Type in Motion]({{ site.baseurl }}/projects#e6) -->
 * P3: Something in Motion
 <!-- * P3: [Something in Motion]({{ site.baseurl }}/projects/p3) -->
 
@@ -134,27 +133,28 @@ Our After Effects training has generally come to an end this week and we start t
 ---
 
 ### July 4 &mdash; Day 8
-No class, July 4th!
+No class, July 4th.
 
 ---
 
 ### July 6 &mdash; Day 9
 Individual meetings this week to present your final project beginnings.
 
-#### Lessons
-* Individual Meetings
+#### Starting
+* E7: Bouncing Ball
+<!-- * E7: [Bouncing Ball]({{ site.baseurl }}/projects#e7) -->
 
 ---
 
 ### July 11 &mdash; Day 10
 Logo reveals can add a lot of energy to a simple logo by bringing in a bit of motion. This week we will find some examples and create our own.
 
-#### Lessons
-* 8.1: Logo Reveals
+#### Topics
+* 7.1: Logo Reveals
 
 #### Starting
-* E7: Logo Reveal
-<!-- * E7: [Logo Reveal]({{ site.baseurl }}/projects#e7) -->
+* E8: Logo Reveal
+<!-- * E8: [Logo Reveal]({{ site.baseurl }}/projects#e8) -->
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
@@ -169,21 +169,18 @@ Come to class ready to work with your best ideas. This week you will create a vi
 ### July 18 &mdash; Day 12
 Individual meetings this week to look at your projects.
 
-#### Lessons
-* Individual meetings
-
 ---
 
 ### July 20 &mdash; Day 13
 Group meetings to discuss your projects. For an out of class activity watch the tutorials below on expressions and complete E9.
 
 #### Lessons
-* 9.1: Expressions (look at Digital Resources)
+* 8.1: Expressions (look at Digital References)
 * Group Meetings
 
 #### Starting
-* E8: Wash, Rinse, Repeat
-<!-- * E8: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e8) -->
+* E9: Wash, Rinse, Repeat
+<!-- * E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
 
 #### Digital References
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
@@ -195,8 +192,9 @@ Group meetings to discuss your projects. For an out of class activity watch the 
 ### July 25 &mdash; Day 14
 Group critique to discuss your projects.
 
-#### Lessons
-* Group critique
+#### Starting
+* E10: Stop Motion
+<!-- * E10: [Stop Motion]({{ site.baseurl }}/projects#e9) -->
 
 ---
 

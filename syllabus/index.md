@@ -42,15 +42,11 @@ Zoom (for class), Chrome, Safari, Firefox, or some other internet browser (acces
 ### Content
 This course consists of many shorter exercises, a few longer projects, quizzes, and in class discussions. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and discussions will be used for critiques and analysis of relevant topics.
 
-#### project 1: moving poster
-Posters are traditionally a static medium but with more and more poster displays going digital and AR becoming a more widely available tool, posters can come alive. You will design a moving poster for a future event that uses AR to transform the printed version into motion. [More information here]({{ site.baseurl }}/projects).
-
-
-#### project 2: obstructions
+#### project 1: obstructions
 Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. You will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
 
-#### project 3: something in motion
-Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
+#### project 2: something in motion
+Project two will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
 
 ### Engagement
 This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
@@ -64,7 +60,7 @@ This course has an engagement policy instead of an attendance policy. Your engag
 * Care about yourself & your work, your classmates & their work, and this class.
 
 ### Grading
-Grades will be based on engagement (25%),  exercises (25%), and projects (50%).
+Grades will be based on engagement (25%), exercises (25%), and projects (50%).
 
 #### engagement (25%)
 This percentage will be based on your engagement in the class which is explained on previous page but will include attendance, discussion and readings, critiques, and overall participation. Be engaged in this course and its content throughout the semester and this should be an easy 25%.
@@ -84,7 +80,7 @@ Your ability to communicate with me is of prime importance in this course. If yo
 The same goes for if you are struggling in this class or having other issues that are hindering your ability to complete work in this class. The more you keep me in the loop the more I can help you and adjust as needed.
 
 ### Weekly Schedule
-Class is on Thursdays from 10:30–1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
+Class is on Mondays and Wednesdays from 4:30–7:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. Unless otherwise specified, all work is due at the beginning of class.
 
 A note&mdash;Time management is an important skill to master and should be worked on all your classes. Staying up all night working is not a badge of honor, it typically means you didn't budget your time correctly. Staying up all night isn't healthy and, especially now, making sure you are keeping yourself healthy is your first priority.
 
