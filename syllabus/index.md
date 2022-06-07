@@ -157,11 +157,11 @@ The Collaborative Learning Hub Located in Johnson Center 311 (703-993-3141), the
 
 ### Important Deadlines
 <ul class="date-list">
-  <li><span class="date">June 7:</span> First Day of Spring Classes</li>
+  <li><span class="date">June 7:</span> First Day of Summer Classes</li>
   <li><span class="date">June 9:</span> Last Day to Add/Drop w/no tuition liability</li>
   <li><span class="date">June 15:</span> Final Drop Deadline: Last Day for 50% Tuition Refund</li>
   <li><span class="date">June 20:</span> Juneteenth: University Closed</li>
-  <li><span class="date">June 16&ndash;June 23:</span> Unrestricted Withdrawal</li>
+  <li><span class="date">June 16&ndash;23:</span> Unrestricted Withdrawal</li>
   <li><span class="date">June 24&ndash;July 12:</span> Selective Withdrawal</li>
   <li><span class="date">July 4:</span> Independence Day: University Closed</li>
   <li><span class="date">July 27:</span> Last Day of Classes</li>
