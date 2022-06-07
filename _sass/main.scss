@@ -617,6 +617,11 @@ hr {
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
+@media only screen and (max-width: 400px) {
+  .pattern-container {
+    width: 1200px;
+  }
+}
  @media only screen and (min-width: 520px) {
    header {
      position: relative;
