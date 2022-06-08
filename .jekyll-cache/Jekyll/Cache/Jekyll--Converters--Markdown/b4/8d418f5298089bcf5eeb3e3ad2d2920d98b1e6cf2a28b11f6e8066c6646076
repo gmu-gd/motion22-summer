@@ -1,4 +1,4 @@
-I"ª,<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
+I"Ã,<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
 
 <p>If you want to know what is due for next class, <a href="/due">check here</a>.</p>
 
@@ -12,8 +12,10 @@
 </ul>
 
 <h4 id="starting">Starting</h4>
-<p>*E1: dot gif
-<!-- * E1: [dot gif](/projects#e1) --></p>
+<!-- * E1: dot gif -->
+<ul>
+  <li>E1: <a href="/projects#e1">dot gif</a></li>
+</ul>
 
 <hr />
 
@@ -94,6 +96,9 @@
   <li><em>Disney:</em> <a href="https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/">The 12 Principles of Animation as Illustrated Through Disney and Pixar Films</a></li>
   <li><em>Alan Becker Tutorials:</em> <a href="https://www.youtube.com/watch?v=uDqjIdI4bF4">12 Principles of Animation</a></li>
   <li><em>Adobe:</em> <a href="https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&amp;ref=helpx.adobe.com">Control Animation of Multiple Layers with Parenting</a></li>
+  <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial">Six Essential Motion Design Transitions</a></li>
+  <li><em>Adobe:</em> <a href="https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json">Build Custom Transitions</a></li>
+  <li><em>RocketJump Film School</em> <a href="https://youtu.be/OAH0MoAv2CI">Cuts &amp; Transitions 101</a></li>
 </ul>
 
 <hr />
@@ -116,12 +121,9 @@
 
 <h4 id="digital-references-3">Digital References</h4>
 <ul>
-  <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial">Six Essential Motion Design Transitions</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/graph-editor-after-effects">Using the Graph Editor in After Effects</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/intro-to-the-graph-editor-in-after-effects">Intro to the Graph Editor in After Effects</a></li>
-  <li><em>Adobe:</em> <a href="https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json">Build Custom Transitions</a></li>
   <li><em>Adobe:</em> <a href="https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&amp;ref=helpx.adobe.com">Create Dynamic Movement Between Keyframes with the Graph Editor</a></li>
-  <li><em>RocketJump Film School</em> <a href="https://youtu.be/OAH0MoAv2CI">Cuts &amp; Transitions 101</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects">How to Use Masks in After Effects</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip">Exaggerate Animation with Squash and Stretch</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/squash-stretch-after-effects">Squash and Stretch in After Effects</a></li>
@@ -144,8 +146,8 @@
 <ul>
   <li>E6: Type in Motion
 <!-- * E6: [Type in Motion](/projects#e6) --></li>
-  <li>P3: Something in Motion
-<!-- * P3: [Something in Motion](/projects/p3) --></li>
+  <li>P2: Something in Motion
+<!-- * P2: [Something in Motion](/projects/p2) --></li>
 </ul>
 
 <h4 id="digital-references-4">Digital References</h4>
