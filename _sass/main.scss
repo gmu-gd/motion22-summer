@@ -851,6 +851,15 @@ hr {
     main, #head-contain {
       width: 87.5vw;
     }
+    .page-info {
+      padding: 2.5vw 6.25vw;
+    }
+    .due-box {
+      padding-right: 6.25vw;
+    }
+    h1 {
+      font-size: 10vw;
+    }
 }
 @media print,
        (-webkit-min-device-pixel-ratio: 1.25),

@@ -236,7 +236,7 @@ hr { border-top: 3px solid #1DFFA8; margin: 25px 0 50px; }
 
 @media only screen and (min-width: 1400px) { /* Style adjustments for viewports that meet the condition */ main, #head-contain { position: relative; left: 0; } #top-content { min-height: 600px; height: 85vh; grid-template-columns: 22vw 22vw 22vw 1fr; grid-template-rows: max-content max-content; gap: 0; grid-template-areas: "pi pi pi wd" "ar ar ar wd"; } .pattern-container { width: 200%; } .pattern-container div { font-size: 66px; } .pattern-container div.row-even, div.row-odd { margin-top: -25px; } .pattern-container div.row-even { margin-left: -29px; } section { display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 2.5vw 2.5vw; margin: 50px 0; } .about { width: 500px; padding: 40px; } .section-title { grid-column: span 4; } h1 { font-size: 14vw; line-height: .9em; padding: 20px 0 0 0; margin-left: -10px; } }
 
-@media only screen and (min-width: 1800px) { /* Style adjustments for viewports that meet the condition */ main, #head-contain { width: 87.5vw; } }
+@media only screen and (min-width: 1800px) { /* Style adjustments for viewports that meet the condition */ main, #head-contain { width: 87.5vw; } .page-info { padding: 2.5vw 6.25vw; } .due-box { padding-right: 6.25vw; } h1 { font-size: 10vw; } }
 
 @media print, (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 1.25dppx), (min-resolution: 120dpi) { /* Style adjustments for high resolution devices */ }
 
