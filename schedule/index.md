@@ -15,8 +15,8 @@ In our first week we will go over the framework for the class, meet each other, 
 * 1.2: Gifs
 
 #### Starting
-* E1: dot gif
-<!-- * E1: [dot gif]({{ site.baseurl }}/projects#e1) -->
+<!-- * E1: dot gif -->
+* E1: [dot gif]({{ site.baseurl }}/projects#e1)
 
 ---
 
@@ -80,7 +80,9 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 * _Disney:_ [The 12 Principles of Animation as Illustrated Through Disney and Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
 * _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * _Adobe:_ [Control Animation of Multiple Layers with Parenting](https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
-
+* _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
+* _Adobe:_ [Build Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
+* _RocketJump Film School_ [Cuts &amp; Transitions 101](https://youtu.be/OAH0MoAv2CI)
 
 ---
 
@@ -97,12 +99,9 @@ This week we will talk about the graph editor, whichis a way for us to more prec
 <!-- * E5: [Poster Animation]({{ site.baseurl }}/projects#e5) -->
 
 #### Digital References
-* _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
 * _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
 * _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/intro-to-the-graph-editor-in-after-effects)
-* _Adobe:_ [Build Custom Transitions](https://helpx.adobe.com/after-effects/how-to/create-custom-transitions.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json)
 * _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
-* _RocketJump Film School_ [Cuts &amp; Transitions 101](https://youtu.be/OAH0MoAv2CI)
 * _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
 * _School of Motion:_ [Exaggerate Animation with Squash and Stretch](https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip)
 * _School of Motion:_ [Squash and Stretch in After Effects](https://www.schoolofmotion.com/blog/squash-stretch-after-effects)
