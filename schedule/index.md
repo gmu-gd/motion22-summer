@@ -56,6 +56,7 @@ After Effects is a complex and powerful program which we will only start to unde
 * _Adobe:_ [Work with Compositions](https://helpx.adobe.com/after-effects/how-to/create-composition-animation.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
 * _School of Motion:_ [3 Pro Tips for After Effects Beginners](https://www.schoolofmotion.com/blog/3-pro-tips-after-effects-beginners)
 * _School of Motion:_ [30 Essential Keyboard Shortcuts in After Effects](https://www.schoolofmotion.com/blog/30-essential-keyboard-shortcuts-in-after-effects)
+* _Vince Opra:_ [Premiere Pro Tutorial for Beginners 2022](https://www.youtube.com/watch?v=cxzXEakrYO4)
 
 ---
 
