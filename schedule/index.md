@@ -27,8 +27,8 @@ Motion projects take thought and planning to execute well. This week we will cov
 * 2.1: Planning for Motion (Shots, Storyboards, Concept Boards, Animatics)
 
 #### Starting
-* E2: Making a Plan
-<!-- * E2: [Making a Plan]({{ site.baseurl }}/projects#e2) -->
+<!-- * E2: Making a Plan -->
+* E2: [Making a Plan]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
 * _School of Motion:_ [What Are Animatics, and Why Are They Important?](https://www.schoolofmotion.com/blog/what-are-animatics-and-why-are-they-important)
