@@ -40,16 +40,16 @@ Motion projects take thought and planning to execute well. This week we will cov
 After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.
 
 #### Topics
-* 3.1: What is Motion Design?
-<!-- * [3.1: What is Motion Design?](#) -->
+<!-- * 3.1: What is Motion Design? -->
+* [3.1: What is Motion Design?](https://docs.google.com/presentation/d/1Fw0lmZEMULfQpqtP0dOlH2-RLFABpxuUojkeP0gDEUI/edit?usp=sharing)
 * 3.2: After Effects Tour
 * 3.3: Position, Scale, Opacity, Rotation
 
 #### Starting
-* E3: Timing, Pacing, Narrative
-<!-- * E3: [Timing, Pacing, Narrative]({{ site.baseurl }}/projects#e3) -->
-* P1: Obstructions
-<!-- * P1: [Obstructions]({{ site.baseurl }}/projects/p1) -->
+<!-- * E3: Timing, Pacing, Narrative -->
+* E3: [Timing, Pacing, Narrative]({{ site.baseurl }}/projects#e3)
+<!-- * P1: Obstructions -->
+* P1: [Obstructions]({{ site.baseurl }}/projects/p1)
 
 #### Digital References
 * _Adobe:_ [Get to Know After Effects](https://helpx.adobe.com/after-effects/how-to/getting-started-after-effects.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_us.json&ref=helpx.adobe.com)
