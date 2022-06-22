@@ -78,7 +78,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 <!-- * E4: [Sound and Motion]({{ site.baseurl }}/projects#e4) -->
 
 #### Digital References
-* _Disney:_ [The 12 Principles of Animation as Illustrated Through Disney and Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
+* _Vectornator:_ [Discover Disney’s 12 Principles Of Animation](https://www.vectornator.io/blog/principles-of-animation/)
 * _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * _Adobe:_ [Control Animation of Multiple Layers with Parenting](https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 * _School of Motion:_ [Six Essential Motion Design Transitions](https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial)
