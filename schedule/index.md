@@ -74,8 +74,8 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 * 4.3: Cuts and Transitions
 
 #### Starting
-* E4: Sound and Motion
-<!-- * E4: [Sound and Motion]({{ site.baseurl }}/projects#e4) -->
+<!-- * E4: Sound and Motion -->
+* E4: [Sound and Motion]({{ site.baseurl }}/projects#e4)
 
 #### Digital References
 * _Vectornator:_ [Discover Disney’s 12 Principles Of Animation](https://www.vectornator.io/blog/principles-of-animation/)
@@ -96,8 +96,8 @@ This week we will talk about the graph editor, whichis a way for us to more prec
 * 5.3: Masks and Mattes
 
 #### Starting
-* E5: Poster Animation
-<!-- * E5: [Poster Animation]({{ site.baseurl }}/projects#e5) -->
+<!-- * E5: Poster Animation -->
+* E5: [Poster Animation]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
 * _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
