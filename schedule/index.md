@@ -88,7 +88,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 ---
 
 ### June 27 &mdash; Day 6
-This week we will talk about the graph editor, whichis a way for us to more precisely control motion in After Effects. We will also dive a little deeper into After Effects and look at some animation techniques and review masks and mattes.
+This week we will talk about the graph editor, which is a way for us to more precisely control motion in After Effects. We will also dive a little deeper into After Effects and look at some animation techniques and review masks and mattes.
 
 #### Topics
 * 5.1: Graph Editor
