@@ -103,7 +103,7 @@ section { display: grid; grid-template-columns: 100%; grid-gap: 5vw; margin: 25p
 
 .single, .tutorial-page { width: 100%; margin: 50px 0; }
 
-.student, .tutorial { padding: 15px; border: 3px solid #1a1a1a; cursor: pointer; }
+.student, .tutorial { border: 3px solid #1a1a1a; cursor: pointer; }
 
 .student:hover, .tutorial:hover { background-color: #1DFFA8; }
 

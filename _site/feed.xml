@@ -1,23 +1,194 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-09T09:18:49-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">day 4</title><link href="http://localhost:4000/due/2022/06/08/due" rel="alternate" type="text/html" title="day 4" /><published>2022-06-08T00:00:00-04:00</published><updated>2022-06-08T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/08/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/08/due"><![CDATA[<h4 id="exercise-3-poster-animation">Exercise 3: Poster Animation</h4>
-<p>Upload the video to your Vimeo account, add it to the class group, and submit a link to the video AND the video file on Blackboard.</p>
-
-<h4 id="p13-checkpoint-3">P1.3: Checkpoint 3</h4>
-<p>Submit a PDF of your refined draft and a video file of your animated poster on Blackboard. You do NOT need to upload it to Vimeo. Also print out a version on tabloid paper and bring it to class.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 2&colon; Making a Plan]]></summary></entry><entry><title type="html">dot gif</title><link href="http://localhost:4000/exercises/e1/" rel="alternate" type="text/html" title="dot gif" /><published>2022-06-08T00:00:00-04:00</published><updated>2022-06-08T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e1</id><content type="html" xml:base="http://localhost:4000/exercises/e1/"><![CDATA[<h4 id="exercise-1-dot-gif">Exercise 1: dot gif</h4>
-
-<p>A simple way to start thinking about motion is through a gif, a short animated image that is controlled through individual frames. Your gif should be 600px by 300px at 72ppi and animate your name. Use only black on a transparent background. The gif should be at least 15 frames but can certainly be more and should loop seamlessly.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-29T13:48:25-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Day 10</title><link href="http://localhost:4000/due/2022/06/29/due" rel="alternate" type="text/html" title="Day 10" /><published>2022-06-29T00:00:00-04:00</published><updated>2022-06-29T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/29/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/29/due"><![CDATA[<h4 id="nothing">Nothing</h4>
+<p>It’s July 4th, no class!</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 2&colon; Making a Plan]]></summary></entry><entry><title type="html">Type in Motion</title><link href="http://localhost:4000/exercises/e6/" rel="alternate" type="text/html" title="Type in Motion" /><published>2022-06-29T00:00:00-04:00</published><updated>2022-06-29T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e6</id><content type="html" xml:base="http://localhost:4000/exercises/e6/"><![CDATA[<h4 id="exercise-6-type-in-motion">Exercise 6: Type in Motion</h4>
+<p>Find a short bit of spoken audio. The audio could be from a movie, tv show, speech, etc. but should not have much background noise (so no music). Make a short animation that has the words come on and off screen timed to the audio track.</p>
 
 <h5 id="technical-requirements">Technical Requirements</h5>
-
 <ul>
-  <li>600px by 300px at 72ppi</li>
-  <li>15 frames (or more)</li>
-  <li>your name animated</li>
-  <li>seamless, infinite loop</li>
-  <li>gif format</li>
-  <li>transparent background</li>
-  <li>only use black</li>
+  <li>1920x1080</li>
+  <li>Somewhere between 5 and 15 seconds</li>
+  <li>Uses audio</li>
 </ul>
 
-<p><span class="due">Due Monday, June 13 by 4:30 pm ET</span></p>]]></content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html"><![CDATA[Exercise 1: dot gif]]></summary></entry><entry><title type="html">Day 3</title><link href="http://localhost:4000/due/2022/06/06/due" rel="alternate" type="text/html" title="Day 3" /><published>2022-06-06T00:00:00-04:00</published><updated>2022-06-06T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/06/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/06/due"><![CDATA[<h4 id="exercise-2-making-a-plan">Exercise 2: Making a Plan</h4>
-<p>Upload your PDF to Blackboard.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 2&colon; Making a Plan]]></summary></entry><entry><title type="html">Day 2</title><link href="http://localhost:4000/due/2022/06/01/due" rel="alternate" type="text/html" title="Day 2" /><published>2022-06-01T00:00:00-04:00</published><updated>2022-06-01T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/01/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/01/due"><![CDATA[<h4 id="exercise-1-dot-gif">Exercise 1: dot gif</h4>
-<p>Upload your gif to Blackboard.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 1&colon; dot gif]]></summary></entry><entry><title type="html">jihyun</title><link href="http://localhost:4000/student/jihyun/" rel="alternate" type="text/html" title="jihyun" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/jihyun</id><content type="html" xml:base="http://localhost:4000/student/jihyun/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">john</title><link href="http://localhost:4000/student/john/" rel="alternate" type="text/html" title="john" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/john</id><content type="html" xml:base="http://localhost:4000/student/john/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">kellie</title><link href="http://localhost:4000/student/kellie/" rel="alternate" type="text/html" title="kellie" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/kellie</id><content type="html" xml:base="http://localhost:4000/student/kellie/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">maria</title><link href="http://localhost:4000/student/maria/" rel="alternate" type="text/html" title="maria" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/maria</id><content type="html" xml:base="http://localhost:4000/student/maria/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">mirella</title><link href="http://localhost:4000/student/mirella/" rel="alternate" type="text/html" title="mirella" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/mirella</id><content type="html" xml:base="http://localhost:4000/student/mirella/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">sophie</title><link href="http://localhost:4000/student/sophie/" rel="alternate" type="text/html" title="sophie" /><published>2022-05-30T00:00:00-04:00</published><updated>2022-05-30T00:00:00-04:00</updated><id>http://localhost:4000/student/sophie</id><content type="html" xml:base="http://localhost:4000/student/sophie/"><![CDATA[]]></content><author><name>Michael McDermott</name></author><category term="student" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p><span class="due">Due Wednesday, July 06 by 4:30 pm ET</span></p>]]></content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html"><![CDATA[Exercise 6: Type in Motion Find a short bit of spoken audio. The audio could be from a movie, tv show, speech, etc. but should not have much background noise (so no music). Make a short animation that has the words come on and off screen timed to the audio track.]]></summary></entry><entry><title type="html">Something in Motion</title><link href="http://localhost:4000/projects/p2/" rel="alternate" type="text/html" title="Something in Motion" /><published>2022-06-29T00:00:00-04:00</published><updated>2022-06-29T00:00:00-04:00</updated><id>http://localhost:4000/projects/p2</id><content type="html" xml:base="http://localhost:4000/projects/p2/"><![CDATA[<h3 id="description">Description</h3>
+<p>You will conceptualize, plan, design, and animate a motion project of your choosing.</p>
+
+<p>Each project has a specific set of goals and requirements that should be accomplished. You will find and  generate the content that fits the description for your chosen project. If you choose to create your own project, read through these to get a feel for the scope of work required.</p>
+
+<p>The projects you can choose from are a <a href="#kinetic">Kinetic Type Video</a>, a <a href="#title">Title Sequence</a>, <a href="#poster">Moving Posters</a>, or a <a href="#broadcast">Broadcast Design Package</a>.</p>
+
+<p><a href="https://miro.com/app/board/uXjVOGIWaYc=/?invite_link_id=252614769573">Reference Miro Board</a></p>
+
+<h4 id="kinetic-type-video"><span id="kinetic">Kinetic Type Video</span></h4>
+<p>Make a one minute or more video combining type and audio. The audio can be a song, a clip from a show or film, a speech, etc. Keep in mind that certain aspects of the audio can influence decisions you make while animating the type so make sure you are familiar with the audio. Outside shapes, colors, and lines can be used but no pictures or videos. The video should have a title scene that includes the title for the audio and who made the audio. For example, a song would have a song title and artist name and a movie scene would have the movie title and characters involved.</p>
+
+<h5 id="requirements">Requirements</h5>
+<ul>
+  <li>At least a minute long</li>
+  <li>Audio treated respectfully at the beginning and end</li>
+  <li>1920x1080 format</li>
+  <li>Only text and paths/shapes, no outside images or video</li>
+  <li>Title scene showing title of audio and maker of audio</li>
+</ul>
+
+<h5 id="checkpoints">Checkpoints</h5>
+<ul>
+  <li>June 27: Start</li>
+  <li>July 6: Audio selected, project plan meeting</li>
+  <li>July 11: Initial storyboards and 2 different concept board directions (colors, type, etc.)</li>
+  <li>July 13: At least two refined concept boards and brief motion tests</li>
+  <li>July 18: Title section and first section animated (at least 20 seconds)</li>
+  <li>July 20: Refined beginning and continuing to animate (at least 40 seconds)</li>
+  <li>July 25: Full draft (at least 60 seconds)</li>
+  <li>July 27: Due</li>
+</ul>
+
+<h4 id="title-sequence"><span id="title">Title Sequence</span></h4>
+<p>Design a title sequence for a book of your choice. The book can be any length but fiction is probably the easiest category to choose from. You cannot use any visuals associated with the book and if you pick an illustrated book you certainly cannot use the illustrations in your sequence. The book should not already be a movie and you will be responsible for generating your own cast and crew to display. Take a look at this list on <a href="https://en.wikipedia.org/wiki/Opening_credits#Common_opening_credits_order">Wikipedia</a> to get an idea of who you might want to display, you don’t need to display them all. The title sequence should be one minute long or more.</p>
+
+<h5 id="requirements-1">Requirements</h5>
+<ul>
+  <li>At least a minute long</li>
+  <li>1920x1080 format</li>
+  <li>Displays names and titles for a reasonable amount of people (probably around 10 to 15)</li>
+  <li>Displays book title and based on a story by [author] at some point</li>
+  <li>Uses audio</li>
+</ul>
+
+<h5 id="checkpoints-1">Checkpoints</h5>
+<ul>
+  <li>June 27: Start</li>
+  <li>July 6: Book selected, project plan meeting</li>
+  <li>July 11: Initial storyboards and 2 different concept board directions (colors, type, imagery, etc.)</li>
+  <li>July 13: At least two refined concept boards and story boards, animatic and/or motion tests with audio</li>
+  <li>July 18: First half completed (around 30 seconds)</li>
+  <li>July 20: Full draft completed (at least 60 seconds)</li>
+  <li>July 25: Refined full draft</li>
+  <li>July 27: Due</li>
+</ul>
+
+<h4 id="moving-posters"><span id="poster">Moving Posters</span></h4>
+<p>Design a series of two moving posters for a future, real event or events. The posters need to be conceptually similar and visually related and could be two posters for the same event or two posters for related events (think of tour posters for a band or theater posters for different shows). The design must retain the formal elements of a poster, communicate using the traditional rhetoric of a poster, and must scale to fit the portrait format (1080x1920). The choice of movement should feel natural and not distract from the content of the poster. The movement should emphasize the message of the poster not confuse the message.</p>
+
+<h5 id="requirements-2">Requirements</h5>
+<ul>
+  <li>Each poster moves for the amount of time it needs to move</li>
+  <li>Information for the event is clearly displayed</li>
+  <li>Portrait format at 1080x1920</li>
+  <li>Loops seamlessly</li>
+</ul>
+
+<h5 id="checkpoints-2">Checkpoints</h5>
+<ul>
+  <li>June 27: Start</li>
+  <li>July 6: Event selected, project plan meeting</li>
+  <li>July 11: Two rough drafts for each set of posters (2 directions, 4 posters) with general plan for motion</li>
+  <li>July 13: First still digital drafts of two posters in selected direction with brief storyboard for each</li>
+  <li>July 18: Refined still posters with motion tests</li>
+  <li>July 20: First draft of posters in motion</li>
+  <li>July 25: Refined draft of posters in motion</li>
+  <li>July 27: Due</li>
+</ul>
+
+<h4 id="broadcast-design-package"><span id="broadcast">Broadcast Design Package</span></h4>
+<p>Design some motion pieces for a created TV station. You will curate a selection of shows the station will show, come up with a name and logo for the station, and generate a few motion pieces. There will be three pieces you will need to design for the station, an animated logo, lower thirds that introduce the show, tell what’s coming on next, or some other information, and a station lineup that shows what day and time certain shows are happening. Some broadcast design terms and some examples you can find <a href="https://motionarray.com/learn/motion-design/broadcast-design-terms/">here</a>.</p>
+
+<h5 id="requirements-3">Requirements</h5>
+<ul>
+  <li>Station name and logo</li>
+  <li>Single video at 1920x1080 that includes all the specific parts with titles introducing each part</li>
+  <li>Animated logo (sting), has audio, around 5 seconds</li>
+  <li>Lower thirds, includes the show currently on and what’s on next, around 10 seconds</li>
+  <li>Channel lineup, includes 3 shows from the channel, around 30 seconds, ends with logo sting</li>
+</ul>
+
+<h5 id="checkpoints-3">Checkpoints</h5>
+<ul>
+  <li>June 27: Start</li>
+  <li>July 6: Station name, selected shows, project plan meeting</li>
+  <li>July 11: 5 initial logo concepts with storyboards or notes for how each one might animate</li>
+  <li>July 13: Initial logo animation with audio, concept boards for lower thirds, storyboards for channel lineup</li>
+  <li>July 18: Refined logo animation, initial lower thirds (in motion), concept boards for channel lineup</li>
+  <li>July 20: Refined lower thirds, initial channel lineup (in motion)</li>
+  <li>July 25: Refined channel lineup, initial full final video</li>
+  <li>July 27: Due</li>
+</ul>]]></content><author><name>Michael McDermott</name></author><category term="projects" /><summary type="html"><![CDATA[For this project you will be able to choose from a few options below or create your own project. If generating your own project you need to make sure to create a schedule and similar outcomes to the projects listed below.]]></summary></entry><entry><title type="html">Day 9</title><link href="http://localhost:4000/due/2022/06/27/due" rel="alternate" type="text/html" title="Day 9" /><published>2022-06-27T00:00:00-04:00</published><updated>2022-06-27T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/27/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/27/due"><![CDATA[<h4 id="exercise-5-poster-animation">Exercise 5: Poster Animation</h4>
+<p>Upload your video to Blackboard and add it to Vimeo and our Vimeo group.</p>
+
+<h4 id="p13-video-3">P1.3: Video 3</h4>
+<p>Upload your video to Blackboard. Make sure the video is named yourTopic-3 and is exported as an mp4.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 2&colon; Poster Animation &amp; P1.3&colon; Video 3]]></summary></entry><entry><title type="html">Poster Animation</title><link href="http://localhost:4000/exercises/e5/" rel="alternate" type="text/html" title="Poster Animation" /><published>2022-06-27T00:00:00-04:00</published><updated>2022-06-27T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e5</id><content type="html" xml:base="http://localhost:4000/exercises/e5/"><![CDATA[<h4 id="exercise-5-poster-animation">Exercise 5: Poster Animation</h4>
+<p>Recreate a Joseph Müller-Brockmann poster (<a href="https://www.moma.org/artists/4154#works">MoMA</a>, <a href="http://www.artnet.com/artists/josef-m%C3%BCller-brockmann/">artnet</a>, <a href="https://www.grapheine.com/en/history-of-graphic-design/graphic-designer-muller-brockmann-swiss-style">Grapheine</a>, <a href="https://www.internationalposter.com/exhibitions/mid-century-modern-the-posters-of-josef-muller-brockmann/">International Poster Gallery</a>, or you can download some images <a href="https://www.dropbox.com/sh/93mz3dqum2kckik/AACvG4Y57cacxn6UcN-OYwsTa?dl=0">here</a>) as accurately as you can in Illustrator (1080x1920) and then animate it in After Effects. The posters are generally in German so you might not be able to read all the content but I would try to find out what kind of event the poster is promoting. Knowing the event might influence the motion of the poster. Your animation should enhance and bring the poster to life. More than likely the font is Akzidenz Grotesk.</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1080x1920 (or dimensions close to that but keep the proportions of the original poster)</li>
+  <li>As long as it needs to be</li>
+  <li>As exact of a replica as you can make</li>
+  <li>Only animate things that already exist on the poster</li>
+</ul>
+
+<p><span class="due">Due Wednesday, June 29 by 4:30 pm ET</span></p>]]></content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html"><![CDATA[Exercise 5: Poster Animation Recreate a Joseph Müller-Brockmann poster (MoMA, artnet, Grapheine, International Poster Gallery, or you can download some images here) as accurately as you can in Illustrator (1080x1920) and then animate it in After Effects. The posters are generally in German so you might not be able to read all the content but I would try to find out what kind of event the poster is promoting. Knowing the event might influence the motion of the poster. Your animation should enhance and bring the poster to life. More than likely the font is Akzidenz Grotesk.]]></summary></entry><entry><title type="html">Day 8</title><link href="http://localhost:4000/due/2022/06/22/due" rel="alternate" type="text/html" title="Day 8" /><published>2022-06-22T00:00:00-04:00</published><updated>2022-06-22T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/22/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/22/due"><![CDATA[<h4 id="nothing">Nothing</h4>
+<p>No class.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[No class, July 4.]]></summary></entry><entry><title type="html">Sound and Motion</title><link href="http://localhost:4000/exercises/e4/" rel="alternate" type="text/html" title="Sound and Motion" /><published>2022-06-22T00:00:00-04:00</published><updated>2022-06-22T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e4</id><content type="html" xml:base="http://localhost:4000/exercises/e4/"><![CDATA[<h4 id="exercise-4-sound-and-motion">Exercise 4: Sound and Motion</h4>
+<p>Make a 15 second animation using the layered Illustrator file on Blackboard and some kind of audio. Upload the video to your Vimeo account, add it to the class group, and submit a link to the video AND the video file on Blackboard.</p>
+
+<p><a href="https://www.dropbox.com/s/3kaqcqc7kslp5ps/E4-DemoFile.ai?dl=0">Download the Illustrator file.</a></p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1920x1080</li>
+  <li>15 seconds long</li>
+  <li>Uses audio</li>
+  <li>Nothing extra added to the composition</li>
+</ul>
+
+<p><span class="due">Due Monday, June 27 by 4:30 pm ET</span></p>]]></content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html"><![CDATA[Exercise 4: Sound and Motion Make a 15 second animation using the layered Illustrator file on Blackboard and some kind of audio. Upload the video to your Vimeo account, add it to the class group, and submit a link to the video AND the video file on Blackboard.]]></summary></entry><entry><title type="html">Day 7</title><link href="http://localhost:4000/due/2022/06/20/due" rel="alternate" type="text/html" title="Day 7" /><published>2022-06-20T00:00:00-04:00</published><updated>2022-06-20T00:00:00-04:00</updated><id>http://localhost:4000/due/2022/06/20/due</id><content type="html" xml:base="http://localhost:4000/due/2022/06/20/due"><![CDATA[<h4 id="exercise-5-poster-animation">Exercise 5: Poster Animation</h4>
+<p>Upload your video to Blackboard and add it to Vimeo and our Vimeo group.</p>
+
+<h4 id="p13-video-3">P1.3: Video 3</h4>
+<p>Upload your video to Blackboard. Make sure the video is named yourTopic-3 and is exported as an mp4.</p>]]></content><author><name>Michael McDermott</name></author><category term="due" /><summary type="html"><![CDATA[Exercise 2&colon; Poster Animation &amp; P1.3&colon; Video 3]]></summary></entry><entry><title type="html">Obstructions</title><link href="http://localhost:4000/projects/p1/" rel="alternate" type="text/html" title="Obstructions" /><published>2022-06-15T00:00:00-04:00</published><updated>2022-06-15T00:00:00-04:00</updated><id>http://localhost:4000/projects/p1</id><content type="html" xml:base="http://localhost:4000/projects/p1/"><![CDATA[<h3 id="description">Description</h3>
+<p>Each class you will create a video based on a <a href="https://docs.google.com/document/d/19PINfzLF9Wu-T8Fxu5K2VDJ52BzcBcIygFQx6HRd6dA/edit?usp=sharing">design concept or principle</a>. The first video will have no obstructions on it, only the time (15 seconds) and size (1080x1080) will be required. During the following classes, we will impose a series of obstructions that you will use to remake the original video. The goal is not to find ways to work around the obstructions but to find ways to use the obstructions. The end will be a series of four videos that should be visually different but thematically and narratively the consistent.</p>
+
+<p>At the beginning of each class we will screen the videos and the top videos will get to choose an obstruction for the next video.</p>
+
+<p>Each individual video will be submitted through Blackboard before class and the final four videos will be combined into one video and uploaded to Vimeo on the last day. This video should have a title slide before each video listing the obstructions.</p>
+
+<h4 id="obstructions">Obstructions</h4>
+<ul>
+  <li>Video 1 – None</li>
+  <li>Video 2 – Only use 3 colors, Must have 5 self made SFX, Must have 10 transitions</li>
+  <li>Video 3 – Only black and white, Must have a sense of dimension, No type</li>
+  <li>Video 4 – TBD</li>
+</ul>
+
+<h4 id="requirements">Requirements</h4>
+<ul>
+  <li>Four 15 second long videos</li>
+  <li>1080x1080</li>
+  <li>Videos adhering to the appropriate obstructions</li>
+</ul>
+
+<h3 id="checkpoints">Checkpoints</h3>
+<ul>
+  <li>June 15: Start</li>
+  <li>June 20: No class</li>
+  <li>June 22: Video 1 due</li>
+  <li>June 27: Video 2 due</li>
+  <li>June 29: Video 3 due</li>
+  <li>July 6: Video 4 and final combined videos due</li>
+</ul>]]></content><author><name>Michael McDermott</name></author><category term="projects" /><summary type="html"><![CDATA[Create a series of videos based on a design concept or principle. The first video is open for any approach or technique. That video will then be remade 3 different times, each time with a specific set of obstructions that must be followed.]]></summary></entry><entry><title type="html">Timing, Pacing, Narrative</title><link href="http://localhost:4000/exercises/e3/" rel="alternate" type="text/html" title="Timing, Pacing, Narrative" /><published>2022-06-15T00:00:00-04:00</published><updated>2022-06-15T00:00:00-04:00</updated><id>http://localhost:4000/exercises/e3</id><content type="html" xml:base="http://localhost:4000/exercises/e3/"><![CDATA[<h4 id="exercise-3-timing-pacing-narrative">Exercise 3: Timing, Pacing, Narrative</h4>
+<p>Use found footage and the provided audio track to create a thirty second teaser trailer for a fictional film. Select clips that will introduce the settings, characters, and other moments of your fictional film that help tell the story. The footage should be thoughtfully curated but it is alright for the footage to be visually inconsistent as long as the teaser generally makes sense. Focus on gathering footage with different kinds of shots (extremely wide to extreme close up) but that all relate to the narrative you are trying to tell. The footage can be found at <a href="https://www.pexels.com/videos/">pexels.com</a>.</p>
+
+<p>Once you have your selection of clips (shoot for around 20 clips initially), start to sequence and time them to the audio track. Keep the pacing of your clips in mind while timing them, some clips will be very short and others will last longer. The variety of pacing will help make the teaser more dynamic. The final teaser also needs to include the title of your fictional film. The title can be placed wherever you feel it belongs in the teaser but should fit in with the audio.</p>
+
+<p>The final video should be exported as an mp4, uploaded to Vimeo, and added to the the Vimeo group. You should also submit your video on Blackboard.</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>Uses full length of provided audio (linked on Blackboard)</li>
+  <li>Title somewhere in the video</li>
+  <li>Clips timed to audio when appropriate</li>
+  <li>Various shot sizes</li>
+  <li>Pace varies</li>
+  <li>A (potentially very loose) narrative</li>
+</ul>
+
+<p><span class="due">Due Wednesday, June 22 by 4:30 pm ET</span></p>]]></content><author><name>Michael McDermott</name></author><category term="exercises" /><summary type="html"><![CDATA[Exercise 3: Timing, Pacing, Narrative Use found footage and the provided audio track to create a thirty second teaser trailer for a fictional film. Select clips that will introduce the settings, characters, and other moments of your fictional film that help tell the story. The footage should be thoughtfully curated but it is alright for the footage to be visually inconsistent as long as the teaser generally makes sense. Focus on gathering footage with different kinds of shots (extremely wide to extreme close up) but that all relate to the narrative you are trying to tell. The footage can be found at pexels.com.]]></summary></entry></feed>

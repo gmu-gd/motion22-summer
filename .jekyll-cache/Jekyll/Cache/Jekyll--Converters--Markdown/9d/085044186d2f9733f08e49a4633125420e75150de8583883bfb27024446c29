@@ -1,4 +1,4 @@
-I"F-<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
+I"�-<p>This schedule maps out what we are covering in class each week and what work we are starting that day. It is very subject to change as we go along in class.</p>
 
 <p>If you want to know what is due for next class, <a href="/due">check here</a>.</p>
 
@@ -28,9 +28,9 @@
 </ul>
 
 <h4 id="starting-1">Starting</h4>
+<!-- * E2: Making a Plan -->
 <ul>
-  <li>E2: Making a Plan
-<!-- * E2: [Making a Plan](/projects#e2) --></li>
+  <li>E2: <a href="/projects#e2">Making a Plan</a></li>
 </ul>
 
 <h4 id="digital-references">Digital References</h4>
@@ -45,19 +45,19 @@
 <p>After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.</p>
 
 <h4 id="topics-2">Topics</h4>
+<!-- * 3.1: What is Motion Design? -->
 <ul>
-  <li>3.1: What is Motion Design?
-<!-- * [3.1: What is Motion Design?](#) --></li>
+  <li><a href="https://docs.google.com/presentation/d/1Fw0lmZEMULfQpqtP0dOlH2-RLFABpxuUojkeP0gDEUI/edit?usp=sharing">3.1: What is Motion Design?</a></li>
   <li>3.2: After Effects Tour</li>
   <li>3.3: Position, Scale, Opacity, Rotation</li>
 </ul>
 
 <h4 id="starting-2">Starting</h4>
+<!-- * E3: Timing, Pacing, Narrative -->
 <ul>
-  <li>E3: Timing, Pacing, Narrative
-<!-- * E3: [Timing, Pacing, Narrative](/projects#e3) --></li>
-  <li>P1: Obstructions
-<!-- * P1: [Obstructions](/projects/p1) --></li>
+  <li>E3: <a href="/projects#e3">Timing, Pacing, Narrative</a>
+<!-- * P1: Obstructions --></li>
+  <li>P1: <a href="/projects/p1">Obstructions</a></li>
 </ul>
 
 <h4 id="digital-references-1">Digital References</h4>
@@ -87,14 +87,14 @@
 </ul>
 
 <h4 id="starting-3">Starting</h4>
+<!-- * E4: Sound and Motion -->
 <ul>
-  <li>E4: Sound and Motion
-<!-- * E4: [Sound and Motion](/projects#e4) --></li>
+  <li>E4: <a href="/projects#e4">Sound and Motion</a></li>
 </ul>
 
 <h4 id="digital-references-2">Digital References</h4>
 <ul>
-  <li><em>Disney:</em> <a href="https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/">The 12 Principles of Animation as Illustrated Through Disney and Pixar Films</a></li>
+  <li><em>Vectornator:</em> <a href="https://www.vectornator.io/blog/principles-of-animation/">Discover Disney’s 12 Principles Of Animation</a></li>
   <li><em>Alan Becker Tutorials:</em> <a href="https://www.youtube.com/watch?v=uDqjIdI4bF4">12 Principles of Animation</a></li>
   <li><em>Adobe:</em> <a href="https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&amp;ref=helpx.adobe.com">Control Animation of Multiple Layers with Parenting</a></li>
   <li><em>School of Motion:</em> <a href="https://www.schoolofmotion.com/blog/six-essential-motion-design-transitions-tutorial">Six Essential Motion Design Transitions</a></li>
@@ -105,7 +105,7 @@
 <hr />
 
 <h3 id="june-27--day-6">June 27 — Day 6</h3>
-<p>This week we will talk about the graph editor, whichis a way for us to more precisely control motion in After Effects. We will also dive a little deeper into After Effects and look at some animation techniques and review masks and mattes.</p>
+<p>This week we will talk about the graph editor, which is a way for us to more precisely control motion in After Effects. We will also dive a little deeper into After Effects and look at some animation techniques and review masks and mattes.</p>
 
 <h4 id="topics-4">Topics</h4>
 <ul>
@@ -115,9 +115,9 @@
 </ul>
 
 <h4 id="starting-4">Starting</h4>
+<!-- * E5: Poster Animation -->
 <ul>
-  <li>E5: Poster Animation
-<!-- * E5: [Poster Animation](/projects#e5) --></li>
+  <li>E5: <a href="/projects#e5">Poster Animation</a></li>
 </ul>
 
 <h4 id="digital-references-3">Digital References</h4>
@@ -144,11 +144,11 @@
 </ul>
 
 <h4 id="starting-5">Starting</h4>
+<!-- * E6: Type in Motion -->
 <ul>
-  <li>E6: Type in Motion
-<!-- * E6: [Type in Motion](/projects#e6) --></li>
-  <li>P2: Something in Motion
-<!-- * P2: [Something in Motion](/projects/p2) --></li>
+  <li>E6: <a href="/projects#e6">Type in Motion</a>
+<!-- * P2: Something in Motion --></li>
+  <li>P2: <a href="/projects/p2">Something in Motion</a></li>
 </ul>
 
 <h4 id="digital-references-4">Digital References</h4>
