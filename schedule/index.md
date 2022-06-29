@@ -116,7 +116,8 @@ Our After Effects training has generally come to an end this week and we start t
 #### Topics
 * 6.1: Title Sequences
 * 6.2: Kinetic Type
-* 6.3: Broadcast Package
+* 6.3: Broadcast Packages
+* 6.4: Moving Posters
 
 #### Starting
 <!-- * E6: Type in Motion -->
