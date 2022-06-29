@@ -119,10 +119,10 @@ Our After Effects training has generally come to an end this week and we start t
 * 6.3: Broadcast Package
 
 #### Starting
-* E6: Type in Motion
-<!-- * E6: [Type in Motion]({{ site.baseurl }}/projects#e6) -->
-* P2: Something in Motion
-<!-- * P2: [Something in Motion]({{ site.baseurl }}/projects/p2) -->
+<!-- * E6: Type in Motion -->
+* E6: [Type in Motion]({{ site.baseurl }}/projects#e6)
+<!-- * P2: Something in Motion -->
+* P2: [Something in Motion]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
 * _Adobe:_ [Make Text Write Itself](https://helpx.adobe.com/after-effects/how-to/write-on-effect.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/set-header:projects-to-get-started/en_us.json&ref=helpx.adobe.com)
