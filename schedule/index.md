@@ -142,8 +142,17 @@ No class, July 4th.
 Individual meetings this week to present your final project beginnings.
 
 #### Starting
-* E7: Bouncing Ball
-<!-- * E7: [Bouncing Ball]({{ site.baseurl }}/projects#e7) -->
+<!-- * E7: Bouncing Ball -->
+* E7: [Bouncing Ball]({{ site.baseurl }}/projects#e7)
+
+#### Digital References
+* _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
+* _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/intro-to-the-graph-editor-in-after-effects)
+* _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
+* _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
+* _School of Motion:_ [Exaggerate Animation with Squash and Stretch](https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip)
+* _School of Motion:_ [Squash and Stretch in After Effects](https://www.schoolofmotion.com/blog/squash-stretch-after-effects)
+* _Adobe:_ [Animate an Object to Follow Along a Path](https://helpx.adobe.com/after-effects/how-to/animate-along-path.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
 ---
 
