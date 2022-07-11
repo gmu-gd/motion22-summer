@@ -163,8 +163,8 @@ Logo reveals can add a lot of energy to a simple logo by bringing in a bit of mo
 * 7.1: Logo Reveals
 
 #### Starting
-* E8: Logo Reveal
-<!-- * E8: [Logo Reveal]({{ site.baseurl }}/projects#e8) -->
+<!-- * E8: Logo Reveal -->
+* E8: [Logo Reveal]({{ site.baseurl }}/projects#e8)
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
