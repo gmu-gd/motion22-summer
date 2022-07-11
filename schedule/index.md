@@ -172,17 +172,12 @@ Logo reveals can add a lot of energy to a simple logo by bringing in a bit of mo
 ---
 
 ### July 13 &mdash; Day 11
-Come to class ready to work with your best ideas. This week you will create a video in class and we will screen them all at the end.
+Group meetings to discuss your  project.
 
 ---
 
 ### July 18 &mdash; Day 12
-Individual meetings this week to look at your projects.
-
----
-
-### July 20 &mdash; Day 13
-Group meetings to discuss your projects. For an out of class activity watch the tutorials below on expressions and complete E9.
+Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions and complete E9.
 
 #### Lessons
 * 8.1: Expressions (look at Digital References)
@@ -196,6 +191,11 @@ Group meetings to discuss your projects. For an out of class activity watch the 
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
 * _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
 * _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+
+---
+
+### July 20 &mdash; Day 13
+Group meetings to discuss your projects.
 
 ---
 
