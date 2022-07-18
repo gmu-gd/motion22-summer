@@ -184,8 +184,8 @@ Individual meetings this week to look at your projects. For an out of class acti
 * Group Meetings
 
 #### Starting
-* E9: Wash, Rinse, Repeat
-<!-- * E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
+<!-- * E9: Wash, Rinse, Repeat -->
+* E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9)
 
 #### Digital References
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
